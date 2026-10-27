@@ -9,7 +9,8 @@ and text-to-speech.
 
 ### Open source
 
-Fixes and Turkish localization merged in Apache Superset, MUI X, Element Plus and PrimeLocale. These days I'm contributing to cloud-init.
+Fixes and Turkish localization merged in Apache Superset, MUI X, Element Plus and PrimeLocale.
+These days I'm contributing to cloud-init.
 
 ### Interests
 
