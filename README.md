@@ -7,6 +7,10 @@ measures time to first token and inter-token latency on LLM endpoints. I also sh
 language-learning app on the App Store whose speaking practice runs on speech recognition, LLMs
 and text-to-speech.
 
+### Open source
+
+Fixes and Turkish localization merged in Apache Superset, MUI X, Element Plus and PrimeLocale. These days I'm contributing to cloud-init.
+
 ### Interests
 
 LLM inference, real-time audio, distributed systems, and getting software to speak Turkish properly.
