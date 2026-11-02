@@ -9,9 +9,9 @@ and text-to-speech.
 
 ### Open source
 
-Merged in Apache Superset, go-redis, MUI X, Vuetify, Element Plus and NG-ZORRO, from a CI fix and a
-Redis streams API feature to Turkish localization. These days I'm contributing to cloud-init and
-netplan, and reviewing PRs across Ubuntu tooling.
+When a tool I rely on breaks, I fix it upstream rather than work around it. These days that mostly
+means Ubuntu's first-boot and networking stack, cloud-init and netplan, where I also review other
+contributors' changes.
 
 ### Interests
 
