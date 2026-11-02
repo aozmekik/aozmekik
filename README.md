@@ -9,8 +9,9 @@ and text-to-speech.
 
 ### Open source
 
-Fixes and Turkish localization merged in Apache Superset, MUI X, Element Plus and PrimeLocale.
-These days I'm contributing to cloud-init.
+Merged in Apache Superset, go-redis, MUI X, Vuetify, Element Plus and NG-ZORRO, from a CI fix and a
+Redis streams API feature to Turkish localization. These days I'm contributing to cloud-init and
+netplan, and reviewing PRs across Ubuntu tooling.
 
 ### Interests
 
